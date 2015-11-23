@@ -2,7 +2,5 @@
 
 Steps:
 
-1_How to connect arduino_zero to github <br/>
-2_Make a led blink when open an issue <br/>
-3_provaprova
-
+1_  Connect the Arduino zero board with the WIFI shied 101 to github using API.
+2_  Connect the board to the printer
